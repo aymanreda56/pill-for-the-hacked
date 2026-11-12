@@ -13,6 +13,7 @@ First off. Do not pay. You’re not going to get accounts back and they’ll jus
 
 We need to now start using a known clean computer. On that clean system, do the following:
 1- Using a password manager, change your passwords in this order
+
 1.1- Primary email
 1.2- Any backup or recovery emails
 1.3- Banking, financial, PayPal, Venmo, Crypto accounts
